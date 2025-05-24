@@ -13,7 +13,7 @@ Tracking progress chapter-by-chapter with checklist-style goals. Update each che
 - [ ] What is MongoDB?
 - [ ] History and Evolution of MongoDB
 - [ ] Features of MongoDB
-- [ ] Difference Between SQL and NoSQL
+- [ ] Difference Between SQL and NoSQL- [ ] What is MongoDB?
 - [ ] Document-Oriented Database Structure
 - [ ] BSON vs JSON
 - [ ] Advantages & Disadvantages of MongoDB
